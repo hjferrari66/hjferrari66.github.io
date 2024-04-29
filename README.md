@@ -35,8 +35,16 @@ $$
 
 ## How to insert an image file
 
+voy a otra carpeta con un archivo alli
+
+[Open index in subfolder](./subdir/index.html)
+
 ![beeswarm plot of population by region](/assets/p_beeswarm_region.svg)
 
 @@source
 Source: Wikipedia
 @@
+
+## Voy a otra carpeta con un archivo alli
+
+[Open index in subfolder](./subdir/index.html)
